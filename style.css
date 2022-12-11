@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+}
+
+.greenback {
+  background-color: yellow;
+  color: forestgreen;
+}
+
+.yellowback {
+  background-color: forestgreen;
+  color: yellow;
+}
+
+.blueback {
+  background-color: blue;
+  color: orange;
+}
+
+.orangeback {
+  background-color: orange;
+  color: blue;
+}
